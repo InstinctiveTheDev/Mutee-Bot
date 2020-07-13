@@ -7,11 +7,11 @@ To begin, you must make sure the bot is invited to your server. You can invite t
 ## Commands
  Here is a list of the available commands:
  - setup
-    _Goes through the setup proccess for the guild for the bot to work._
+_Goes through the setup proccess for the guild for the bot to work._
  - mute <@user> [reason]
-    _Mutes a user in the guild until unmuted._
+_Mutes a user in the guild until unmuted._
  - unmute <@user>
-    _Unmutes a user in the guild._
+_Unmutes a user in the guild._
 
 ## Support
 To get support feel free to DM me on Discord @Instinctive#1502

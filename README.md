@@ -7,6 +7,8 @@ https://media0.giphy.com/media/mB9vJSEuNXxHAMdfHT/giphy.gif
 
 ## Commands
  Here is a list of the available commands:
+ - help
+| _Brings up a list of commands._
  - setup
 | _Goes through the setup proccess for the guild for the bot to work._
  - mute <@user> [reason]

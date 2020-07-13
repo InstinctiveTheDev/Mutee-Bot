@@ -16,3 +16,5 @@ https://media0.giphy.com/media/mB9vJSEuNXxHAMdfHT/giphy.gif
 
 ## Support
 To get support feel free to DM me on Discord @Instinctive#1502
+
+_The bot tokens found in this repository are unusable so don't try._
